@@ -1,6 +1,10 @@
-Olá seja bem vindo ao meu GitHub! Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
-Atualmente estou estudando `Node JS` como backend. Para frontend continuo com `HTML`, `CSS`, e `JavaScript`, mas estou dando uma olhada em `ReactJS` também!
  # Leonardo Merlo Primieri :rocket:
+
+Olá seja bem vindo ao meu GitHub! 
+Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
+Atualmente estou estudando `Node JS` como backend. Para frontend continuo com `HTML`, `CSS`, e `JavaScript`, mas estou dando uma olhada em `ReactJS` também!
+
+# Aqui estão minhas redes sociais e meios de contato: :iphone: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-merlo-primieri-534211197/)](https://www.linkedin.com/in/leonardo-merlo-primieri-534211197/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5554996577804&text=Olá!)](https://api.whatsapp.com/send?phone=5554996577804&text=Olá!)
