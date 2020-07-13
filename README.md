@@ -1,9 +1,3 @@
-
-
-<!--
-**leonardoprimieri/leonardoprimieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Olá seja bem vindo ao meu GitHub! Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
 Atualmente estou estudando `Node JS` como backend. Para frontend continuo com `HTML`, `CSS`, e `JavaScript`, mas estou dando uma olhada em `ReactJS` também!
  # Leonardo Merlo Primieri :rocket:
