@@ -2,7 +2,8 @@
 
 Olá seja bem vindo ao meu GitHub! 
 Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
-Atualmente estou estudando `Node JS` como backend. Para frontend continuo com `HTML`, `CSS`, e `JavaScript`, mas estou dando uma olhada em `ReactJS` também!
+Completamente apaixonado por Front-End e tecnlogia, faço isso o dia inteiro! 
+Atualmente sou Desenvolvedor `ReactJS` e trabalho na `Whydea`! 
 
 # Aqui estão minhas redes sociais e meios de contato: :iphone: 
 
