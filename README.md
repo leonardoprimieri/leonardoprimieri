@@ -1,5 +1,3 @@
- # Leonardo Merlo Primieri :rocket:
-
 Olá seja bem vindo ao meu GitHub! 
 Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
 Completamente apaixonado por Front-End e tecnlogia, faço isso o dia inteiro! 
@@ -30,7 +28,7 @@ Atualmente sou Desenvolvedor `ReactJS` e trabalho na `Whydea`!
 <br>
   Meu portfólio: https://leonardomprimieri.vercel.app
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/leonardoprimieri/leonardoprimieri/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
