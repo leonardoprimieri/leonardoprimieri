@@ -1,6 +1,6 @@
 Olá seja bem vindo ao meu GitHub! 
 Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
-Completamente apaixonado por Front-End e tecnlogia, faço isso o dia inteiro! 
+Completamente apaixonado por Front-End e tecnologia, faço isso o dia inteiro! 
 Atualmente sou Desenvolvedor `ReactJS` e trabalho na `Whydea`! 
 
  <div>
