@@ -26,7 +26,7 @@ Atualmente sou Desenvolvedor `ReactJS` e trabalho na `Whydea`!
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5554996577804&text=Olá!)](https://api.whatsapp.com/send?phone=5554996577804&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leo.primieri@gmail.com)](mailto:leo.primieri@gmail.com)
 <br>
-  Meu portfólio: https://leonardomprimieri.vercel.app
+  Meu porfolio: https://leonardomprimieri.vercel.app
  
   ![Snake animation](https://github.com/leonardoprimieri/leonardoprimieri/blob/output/github-contribution-grid-snake.svg)
  
