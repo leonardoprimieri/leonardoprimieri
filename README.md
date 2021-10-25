@@ -5,6 +5,7 @@ Atualmente sou Desenvolvedor `ReactJS` e trabalho na `Whydea`!
 
  <div>
   <a href="https://github.com/leonardoprimieri">
+    [![Commits Badge](https://badges.pufler.dev/commits/yearly/leonardoprimieri?color=blueviolet&style=plastic)](https://badges.pufler.dev)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoprimieri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoprimieri&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
