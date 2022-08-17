@@ -1,11 +1,19 @@
 React Developer, passionate for Front End. 
 I have experience with:
- ∙ RTK Query
- ∙ Typescript
- ∙ Material UI
- ∙ React Hook Form
- ∙ Custom Hooks
- ∙ Clean Architecture
+<div>
+ <ul>
+  <li>RTK Query</li>
+  <li>Typescript</li>
+  <li>Material UI</li>
+  <li>React Hook Form</li>
+  <li>Custom Hooks</li>
+  <li>Clean Architecture</li>
+  <li>Date Fns</li>
+  <li>i18n</li>
+  <li>SCSS</li> 
+ </ul>
+</div>
+ 
 I also study Computer Science at IMED - Passo Fundo.
 Link to my portfolio: https://leonardomprimieri.vercel.app/ 
 
