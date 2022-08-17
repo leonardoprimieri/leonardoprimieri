@@ -2,6 +2,7 @@ React Developer, passionate for Front End.
 I have experience with:
 <div>
  <ul>
+  <li>Redux</li>
   <li>RTK Query</li>
   <li>Typescript</li>
   <li>Material UI</li>
