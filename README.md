@@ -32,6 +32,7 @@ Link to my portfolio: https://leonardomprimieri.vercel.app/
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Leo-DateFNS" height="30" width="40" src="https://avatars.githubusercontent.com/u/14921202?s=280&v=4">
+ <img align="center" alt="Leo-DateFNS" height="30" width="40" src="https://publiuslogic.com/static/a3f4d53fc7b235c15718fbd5e7fbd080/dd45a/react-hook-form.png">
 
 </div>
 
