@@ -15,6 +15,7 @@ I have experience with:
 </div>
  
 I also study Computer Science at IMED - Passo Fundo.
+<br>
 Link to my portfolio: https://leonardomprimieri.vercel.app/ 
 
  <div>
