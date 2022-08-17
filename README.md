@@ -1,7 +1,13 @@
-Olá seja bem vindo ao meu GitHub! 
-Aqui você vai encontrar os projetos que ando treinando para conseguir ser melhor a cada dia.
-Completamente apaixonado por Front-End e tecnologia, faço isso o dia inteiro! 
-Sou desenvolvedor `ReactJS` há 1 ano e meio e trabalho na `Softo`! 
+React Developer, passionate for Front End. 
+I have experience with:
+ ∙ RTK Query
+ ∙ Typescript
+ ∙ Material UI
+ ∙ React Hook Form
+ ∙ Custom Hooks
+ ∙ Clean Architecture
+I also study Computer Science at IMED - Passo Fundo.
+Link to my portfolio: https://leonardomprimieri.vercel.app/ 
 
  <div>
   <a href="https://github.com/leonardoprimieri">
