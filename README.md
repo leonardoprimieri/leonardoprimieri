@@ -1,4 +1,4 @@
-I am a skilled React developer with 5 years of experience in building high-quality web applications. I have a strong understanding of React's core concepts and am adept at using various libraries and frameworks to create complex and dynamic user interfaces. I am a team player with excellent communication and problem-solving skills, and I am always eager to learn and grow my skill set.
+I'm a Senior React Developer with 5 years of experience building complex web applications, including payment processing platforms and BAAS services. With a Computer Science degree and expertise in React, Typescript, NextJS, Javascript, and various state management solutions, I create clean, high-quality code that scales. I thrive in fast-paced software house environments where I can tackle diverse projects and learn continuously. After successful roles in Brazil, I'm now seeking international opportunities to challenge myself and gain exposure to how larger companies approach development. I'm passionate about code quality, enjoy collaborative problem-solving, and have Advanced English communication skills.
 
 Skills:
 <ul>
