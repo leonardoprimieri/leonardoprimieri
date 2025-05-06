@@ -15,4 +15,4 @@ Beyond my proficiency in React, I'm fervently diving into NodeJS to expand my ex
 Driven by an insatiable hunger for learning, I'm actively engaging with NodeJS, exploring its frameworks, and seeking mentorship opportunities to accelerate my growth. My aspiration is to architect end-to-end solutions that are both innovative and reliable, encompassing frontend and backend technologies for comprehensive web application development.
 
 
-https://github.com/leonardoprimieri/leonardoprimieri/blob/master/profile-3d-contrib/profile-south-season.svg
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
