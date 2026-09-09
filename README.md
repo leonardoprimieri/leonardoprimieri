@@ -13,6 +13,3 @@ Skills:
 Beyond my proficiency in React, I'm fervently diving into NodeJS to expand my expertise into full-stack development. I aim to seamlessly integrate React on the frontend with NodeJS on the backend, leveraging its power to create robust and scalable applications. My goal is to harness NodeJS's capabilities to ensure a cohesive and efficient user experience across the entire application.
 
 Driven by an insatiable hunger for learning, I'm actively engaging with NodeJS, exploring its frameworks, and seeking mentorship opportunities to accelerate my growth. My aspiration is to architect end-to-end solutions that are both innovative and reliable, encompassing frontend and backend technologies for comprehensive web application development.
-
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
